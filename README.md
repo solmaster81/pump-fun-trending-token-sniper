@@ -12,7 +12,7 @@ Wishing everyone the best of luck in your crypto trading adventures!
 
 Thanks for your interest and support.
 
-### PS: I launched [$PumpEye](https://pump.fun/coin/EuFS9FTZtfFJr9diapaWLEhQskW765Et6ULc7gDFpump) token for the purpose of marketing my PumpEye Project, not for getting profit and if this project would be helpful for you, then buy some token and keep it.
+### PS: I launched [$PumpEye](https://pump.fun/coin/EuFS9FTZtfFJr9diapaWLEhQskW765Et6ULc7gDFpump) token for the purpose of marketing my PumpEye Project, not for commercial purpose and if this project would be helpful for you, then buy some token and keep it.
 
 ## Link
 
