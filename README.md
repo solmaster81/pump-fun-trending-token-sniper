@@ -1,10 +1,10 @@
-# Pump.fun Trending Token Alert & Sniping Bot
+# Pump.fun Trending Token Alert & Sniping Bot ([Telegram](https://t.me/+N7WDkKC2rpU3YTFh))
 
 ![Telegram Bot Image](screenshot1.png)
 
 ## Description
 
-This Telegram Bot notifies hot-trending tokens on pump.amm pools every 1 mintues sorted by price change percentages.
+This Telegram Bot notifies hot-trending tokens which has been migrated to pump.amm pools every 1 mintues sorted by price change percentages.
 
 ## RoadMap
 
